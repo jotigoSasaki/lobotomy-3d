@@ -1,0 +1,20 @@
+# Normalize line endings
+* text=auto
+# Unity text assets for better diffs
+*.unity text
+*.prefab text
+*.asset text
+*.meta text
+*.anim text
+*.controller text
+*.mask text
+# Treat big binaries as binary (no diffs)
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.wav binary
+*.mp4 binary
+*.ogg binary
