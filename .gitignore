@@ -1,12 +1,12 @@
 # Unity
-[Ll]ibrary/
-[Tt]emp/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-MemoryCaptures/
-Recordings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
 
 # Visual Studio / Rider
 *.csproj
