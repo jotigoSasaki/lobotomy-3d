@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artak\\MyLobotomyCorp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\playerstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|c:\\users\\artak\\mylobotomycorp\\assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\camerachangingtoggles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerachangingtoggles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\entitycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entitycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\createtoggleofrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createtoggleofrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606081A-C78D-061C-52FD-F7E6367A7C9F}|Assembly-CSharp-Editor.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\editor\\createtoggleofroomseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606081A-C78D-061C-52FD-F7E6367A7C9F}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\createtoggleofroomseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\computerusecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\computerusecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|C:\\Users\\Artak\\MyLobotomyCorp\\assets\\scripts\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3A6AA-5584-CDD7-D17D-97733B7348C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\PlayerStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStateManager.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\PlayerStateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStateManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:30:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:29:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraChangingToggles.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\CameraChangingToggles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraChangingToggles.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\CameraChangingToggles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraChangingToggles.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:25:57.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComputerUseController.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\ComputerUseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ComputerUseController.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\ComputerUseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ComputerUseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:08:48.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateToggleOfRoomsEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Editor\\CreateToggleOfRoomsEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\CreateToggleOfRoomsEditor.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Editor\\CreateToggleOfRoomsEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\CreateToggleOfRoomsEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:06:47.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateToggleOfRooms.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\CreateToggleOfRooms.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreateToggleOfRooms.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\CreateToggleOfRooms.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreateToggleOfRooms.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:54:19.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:23:49.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\EntityComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EntityComponent.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\EntityComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EntityComponent.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:54:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\Employee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Employee.cs",
+              "ToolTip": "C:\\Users\\Artak\\MyLobotomyCorp\\Assets\\Scripts\\Employee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:38:55.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
